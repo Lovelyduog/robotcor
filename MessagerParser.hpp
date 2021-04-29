@@ -4,7 +4,8 @@
 namespace robot{
     class WebRobot;
 }
-
+using namespace std;
+using namespace google::protobuf;
 class MessagerParser
 {
 public:

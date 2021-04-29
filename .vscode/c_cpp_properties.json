@@ -17,17 +17,17 @@
                 "/home/shenglish/workspace/FishServer/trunk/fish/GameServer/ModuleGame/Fish"
             ],
             "defines": [
-                "${workspaceFolder}/**"
-                // "/usr/include",
-                // "/home/shenglish/workspace/FishServer/trunk/fish/libjsons",
-                // "/home/shenglish/workspace/FishServer/trunk/fish/libcommon",
-                // "/home/shenglish/workspace/FishServer/trunk/fish/libcommon/protocol",
-                // "/home/shenglish/workspace/FishServer/trunk/fish/libcommon/Utils",
-                // "/home/shenglish/workspace/FishServer/trunk/fish/libcommon/RedisManager",
-                // "/home/shenglish/workspace/FishServer/trunk/fish/GameServer/ModuleConnection",
-                // "/home/shenglish/workspace/FishServer/trunk/fish/GameServer",
-                // "/home/shenglish/workspace/FishServer/trunk/fish/GameServer/Include",
-                // "/home/shenglish/workspace/FishServer/trunk/fish/GameServer/ModuleGame/Fish"
+                "${workspaceFolder}/**",
+                "/usr/include",
+                "/home/shenglish/workspace/FishServer/trunk/fish/libjsons",
+                "/home/shenglish/workspace/FishServer/trunk/fish/libcommon",
+                "/home/shenglish/workspace/FishServer/trunk/fish/libcommon/protocol",
+                "/home/shenglish/workspace/FishServer/trunk/fish/libcommon/Utils",
+                "/home/shenglish/workspace/FishServer/trunk/fish/libcommon/RedisManager",
+                "/home/shenglish/workspace/FishServer/trunk/fish/GameServer/ModuleConnection",
+                "/home/shenglish/workspace/FishServer/trunk/fish/GameServer",
+                "/home/shenglish/workspace/FishServer/trunk/fish/GameServer/Include",
+                "/home/shenglish/workspace/FishServer/trunk/fish/GameServer/ModuleGame/Fish"
             ],
             "compilerPath": "/usr/bin/gcc",
             "cStandard": "c99",

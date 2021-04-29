@@ -7,7 +7,7 @@
 #include "../WebRobot.hpp"
 #include "libcommon/ThreadLog/ThreadLog.h"
 #include "MessagerParser.hpp"
-#include "behave/behave.hpp"
+
 void other_work(boost::asio::yield_context yield_context)
 {
 
